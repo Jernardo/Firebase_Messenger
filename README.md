@@ -1,4 +1,4 @@
-# Firebase_Messenger
+# Firebase Messenger
 
 Android messaging application with error handling and database integration.
 
