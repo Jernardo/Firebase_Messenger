@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742919911088",
+    "firebase_url": "https://fir-messenger-1daf6.firebaseio.com",
+    "project_id": "fir-messenger-1daf6",
+    "storage_bucket": "fir-messenger-1daf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742919911088:android:555da3dd9aadaed473ed75",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742919911088-47rh509l2drbv2bdvrqvh6moqdmcu31d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfv3IKUaFNC2EiI4Fr99vfTfLcAKuRCYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742919911088-47rh509l2drbv2bdvrqvh6moqdmcu31d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
